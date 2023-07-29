@@ -1,0 +1,1 @@
+python vis_cam.py --config='./config.py' --checkpoint="/home/chenpeizhe/project/guokeda/dongyang/classfication/MMaction/results/epoch_5.pth" --video="/home/chenpeizhe/Dataset/dongyang_plus/clips_preprocess256/00022/" --use_frames=True --out-filename='./result/cam/dongyang_022.png'
